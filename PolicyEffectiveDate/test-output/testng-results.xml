@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2156" started-at="2019-11-26T19:58:47 IST" finished-at="2019-11-26T19:58:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2156" started-at="2019-11-26T19:58:47 IST" finished-at="2019-11-26T19:58:49 IST">
+      <class name="com.atmecs.testscript.CollectingPolicyDates">
+        <test-method status="PASS" signature="collectingDatesIntoExcel()[pri:0, instance:com.atmecs.testscript.CollectingPolicyDates@36ebc363]" name="collectingDatesIntoExcel" is-config="true" duration-ms="1897" started-at="2019-11-26T19:58:47 IST" finished-at="2019-11-26T19:58:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collectingDatesIntoExcel -->
+        <test-method status="PASS" signature="gettingDatesFromExcel()[pri:0, instance:com.atmecs.testscript.CollectingPolicyDates@36ebc363]" name="gettingDatesFromExcel" duration-ms="195" started-at="2019-11-26T19:58:49 IST" finished-at="2019-11-26T19:58:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingDatesFromExcel -->
+      </class> <!-- com.atmecs.testscript.CollectingPolicyDates -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
